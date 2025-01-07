@@ -1,0 +1,14 @@
+C:\Users\Dhivakar.gopi\Desktop\Nets\bin\Debug\net8.0\Nets.exe
+C:\Users\Dhivakar.gopi\Desktop\Nets\bin\Debug\net8.0\Nets.deps.json
+C:\Users\Dhivakar.gopi\Desktop\Nets\bin\Debug\net8.0\Nets.runtimeconfig.json
+C:\Users\Dhivakar.gopi\Desktop\Nets\bin\Debug\net8.0\Nets.dll
+C:\Users\Dhivakar.gopi\Desktop\Nets\bin\Debug\net8.0\Nets.pdb
+C:\Users\Dhivakar.gopi\Desktop\Nets\obj\Debug\net8.0\Nets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhivakar.gopi\Desktop\Nets\obj\Debug\net8.0\Nets.AssemblyInfoInputs.cache
+C:\Users\Dhivakar.gopi\Desktop\Nets\obj\Debug\net8.0\Nets.AssemblyInfo.cs
+C:\Users\Dhivakar.gopi\Desktop\Nets\obj\Debug\net8.0\Nets.csproj.CoreCompileInputs.cache
+C:\Users\Dhivakar.gopi\Desktop\Nets\obj\Debug\net8.0\Nets.dll
+C:\Users\Dhivakar.gopi\Desktop\Nets\obj\Debug\net8.0\refint\Nets.dll
+C:\Users\Dhivakar.gopi\Desktop\Nets\obj\Debug\net8.0\Nets.pdb
+C:\Users\Dhivakar.gopi\Desktop\Nets\obj\Debug\net8.0\Nets.genruntimeconfig.cache
+C:\Users\Dhivakar.gopi\Desktop\Nets\obj\Debug\net8.0\ref\Nets.dll
