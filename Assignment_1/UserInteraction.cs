@@ -63,6 +63,12 @@ public class UserInteraction
         }
         return recents;
     }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="choice"></param>
+    /// <param name="callLog"></param>
     public static void OperateInContact(int choice, List<ContactManager> callLog)
     {
         foreach (ContactManager cls in callLog)
