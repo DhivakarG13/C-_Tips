@@ -8,7 +8,7 @@ while (true)
 {
     UserInteraction.PrintMenu();
     int UserChoice = int.Parse(Console.ReadLine());
-    if (UserChoice == 1)// create contact
+    if (UserChoice == 1) // create contact
     {
         CallLog.Add(UserInteraction.GetDetails());
     }
